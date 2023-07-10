@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZhNm2FuQCRT7t4mqSSYuKar99Em2O49ZMhTS0GFEclVEqG7O0qUV9+bztrdzUFXwhSvsS4b02YJj1OoLuJF8Eg==",
+  "success": true,
+  "projectFilePath": "/home/trillion/Repos/Factory-Pattern/FactoryPattern/FactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "/home/trillion/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.19/microsoft.netcore.app.host.linux-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
